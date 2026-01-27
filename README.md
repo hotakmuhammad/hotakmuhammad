@@ -1,43 +1,30 @@
 # Hi, I'm Muhammad Shahid Hotak 👋
 
-I'm a **Full Stack Java / Angular Developer** passionate about building clean, scalable, and efficient applications.
+I'm a **Full Stack Java / Angular Developer** passionate about building clean, scalable applications.
 
 ---
 
-## 🔭 Currently Working On
-- **Easy Lift Movers** – Full Stack application using **Java 17 / Spring Boot 3 / Angular**, managing users, services, appointments, and payments.
+## 🔭 Currently
+- **Easy Lift Movers** – Full Stack app with **Java 17 / Spring Boot 3 / Angular** (users, services, appointments, payments).
 
 ---
 
-## 🌱 Learning & Exploring
-- Improving my **portfolio** with personal and freelance projects.  
-- Learning **new concepts in Java, AI, and web application deployment** to enhance my development skills.
+## 🌱 Learning
+- Improving my **portfolio** and exploring **Java, AI, and application deployment**.
 
 ---
 
 ## 💼 Career Goals
-- Open to **full-time roles or alternance positions as a Java / Spring Boot Developer**.  
-- Eager to work on **real-world projects** and contribute to impactful software solutions.
+- Open to **full-time or alternance roles as a Java / Spring Boot Developer**.
+- Keen to work on **real-world, impactful projects**.
 
 ---
 
 ## ⚡ Skills
-**Back-end:** Java 17/21, Spring Boot 3, Spring Security, JPA/Hibernate, REST APIs, SQL  
-**Front-end:** Angular, React, TypeScript, JavaScript, HTML, CSS (Tailwind, Bootstrap)  
-**Tools & Practices:** Git/GitHub, CI/CD, Unit Testing (JUnit, Mockito), Agile/Scrum, Documentation
+Java, Spring Boot, Angular, React, TypeScript, SQL, REST APIs, Git, CI/CD, Unit Testing
 
 ---
 
-## 📂 Portfolio
-Check out my **[public repositories](https://github.com/hotakmuhammad?tab=repositories)** for my work and projects.
-
----
-
-## 📫 Connect with Me
+## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/muhammad-shahid-hotak-2476b32a1/)  
 - [GitHub](https://github.com/hotakmuhammad)
-
----
-
-### ⚡ Fun Fact
-I love **learning new technologies**, improving my portfolio, and exploring creative solutions in both backend and AI projects!
