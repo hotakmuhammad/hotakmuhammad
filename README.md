@@ -1,30 +1,16 @@
-# Hi, I'm Muhammad Shahid Hotak 👋
+# Muhammad Shahid Hotak
 
-I'm a **Full Stack Java / Angular Developer** passionate about building clean, scalable applications.
+Développeur Full Stack Java / Angular passionné par les applications évolutives.
+- Niveau : Bac+3 **Concepteur Développeur d’Applications** en alternance
+- Compétences : Java, Spring Boot, Angular, React, TypeScript, PHP, SQL, REST APIs, Git
+- 
+## À propos
+- Actuellement sur Easy Lift Movers avec Java 17, Spring Boot 3 et Angular  
+  - Projet : application de gestion complète (utilisateurs, services, rendez-vous, paiements)
+- J’améliore mon portfolio et explore Java, IA et déploiement d’applications
+- Je cherche une **alternance en Mastère Professionnel Manager en Architecture et Applications Logicielles des SI** à **CESI Strasbourg**
 
----
 
-## 🔭 Currently
-- Currently working on **Easy Lift Movers** – a Full Stack app with **Java 17 / Spring Boot 3 / Angular** (users, services, appointments, payments).
-
----
-
-## 🌱 Learning
-- Improving my **portfolio** and exploring **Java, AI, and application deployment**.
-
----
-
-## 💼 Career Goals
-- Open to **full-time or alternance roles as a Java / Spring Boot Developer** for my master degree in **Computer Engineering Manager** at **CCI Campus, Strasbourg - France**.
-- Keen to work on **real-world, impactful projects**.
-
----
-
-## ⚡ Skills
-- Java, Spring Boot, Angular, React, TypeScript, PHP, SQL, REST APIs, Git, CI/CD, Unit Testing
-
----
-
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/muhammad-shahid-hotak-2476b32a1/)  
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/muhammad-shahid-hotak-2476b32a1/)
 - [GitHub](https://github.com/hotakmuhammad)
